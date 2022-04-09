@@ -21,7 +21,7 @@
   },
   "dependencies": {
     "@types/pikaday": "^1.6.3",
-    "moment": "^2.22.0",
+    "moment": "^2.29.2",
     "pikaday": "^1.7.0",
     "font-awesome": "^4.7.0"
   },
