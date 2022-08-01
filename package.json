@@ -23,7 +23,8 @@
     "@types/pikaday": "^1.6.3",
     "moment": "^2.22.0",
     "pikaday": "^1.7.0",
-    "font-awesome": "^4.7.0"
+    "font-awesome": "^4.7.0",
+    "sass": "^1.53.0"
   },
   "devDependencies": {
     "aurelia-bootstrapper": "^2.3.2",
@@ -45,7 +46,7 @@
     "tslint": "^5.13.0",
     "typescript": "^3.1.2",
     "@types/node": "^10.11.6",
-    "gulp-sass": "^4.0.2",
+    "gulp-sass": "^5.1.0",
     "browser-sync": "^2.26.3",
     "connect-history-api-fallback": "^1.6.0",
     "debounce": "^1.2.0",
